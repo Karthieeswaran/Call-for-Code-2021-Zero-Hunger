@@ -29,10 +29,11 @@ By bringing the paper ledgers of food co-ops online, communities can harness dat
 
 In digitized and enhanced co-operative solution, we will try to  minimize the wastage of foods including crops and vegetables, recycle of wastage to promote organic farming and will also provide access to digital wallet through sms. This solution will be reachable to remote or village areas where farmers do not have smart system like smartphone, digital camera etc. Farmers just need basic mobile phones. To achieve this idea we will implement voice/text based bots to communicate with farmers for subscription and accessibility to Co-Ops, digital wallet. We will adapt blockchain to track transactions. Kindly note this idea will also be considered as an improvement/enhancement of solution starter kit followed by provided format:
 
+```diff
 ! Who?- Bots
 + What will they do?-Will interact with farmers through voice call/sms
 - To achieve this measurable outcome (wow!): In order to ensure higher food security
-
+```
 ### The Architecture
 
 ![image](https://user-images.githubusercontent.com/88243059/127745051-655ffbc9-828d-4944-9951-2f54cc132006.png)
