@@ -4,7 +4,8 @@
     - [What's the problem?](#whats-the-problem)
     - [How can technology help?](#how-can-technology-help)
     - [our idea](#our-idea)
-  -[The Architecture](#the-architecture)
+    
+  - [The Architecture](#the-architecture)
   - [Built with](#built-with)
   - [Demo video](#demo-video)
   - [Project](#Project)
