@@ -28,11 +28,11 @@ A farmer can reach out the co-ops using an public co-ops website with the detail
 
 ## Built with
 
-IBM Node Red - This provides a browser-based flow editor that makes it easy to wire together flows using the wide range of nodes in the palette.
-IBM Cloudant - The NoSQL database to store the data.
-Twilio  - The external API to send messages to farmers which will be integrated with in node red using twilio node.
-OpenWheathermap - The external API is used to fetch the wheather report which is integrated in node red using openwheathermap node.
-Node Red UI - The UI will provide an dashboard which is used to display the capacity of the storage space.
+- IBM Node Red - This provides a browser-based flow editor that makes it easy to wire together flows using the wide range of nodes in the palette.
+- IBM Cloudant - The NoSQL database to store the data.
+- Twilio  - The external API to send messages to farmers which will be integrated with in node red using twilio node.
+- OpenWheathermap - The external API is used to fetch the wheather report which is integrated in node red using openwheathermap node.
+- Node Red UI - The UI will provide an dashboard which is used to display the capacity of the storage space.
 
 
 ## Demo video
