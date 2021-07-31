@@ -31,7 +31,7 @@ By bringing the paper ledgers of food co-ops online, communities can harness dat
 
 [![Watch the video](https://github.com/Call-for-Code/Liquid-Prep/blob/master/images/readme/IBM-interview-video-image.png)](https://youtu.be/vOgCOoy_Bx0)
 
-[![Work Flow](
+[![Work Flow](https://github.com/karthi19-DS/Call-for-Code-2021-Zero-Hunger/blob/main/Images/calculate%20storage%20space.PNG)]
 ## Project roadmap
 
 The project currently does the following things.
