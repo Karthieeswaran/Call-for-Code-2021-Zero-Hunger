@@ -22,8 +22,8 @@ By bringing the paper ledgers of food co-ops online, communities can harness dat
 
 ### The idea
 
-In this we are try to bring the paper ledgers to online and stored everything in a cloudant database.Then with this data we can reduce the gap between farmers and Co-Ops.
-A farmer can reach out the co-ops using an public co-ops website with the details of crops.After the request was submitted co-ops can use these data and sms will be sent to farmer with the details of weather, 
+In this we are try to bring the paper ledgers to online and store the data in a cloudant database.Then with this data we can bind the gap between farmers and Co-Ops.After that data will be analysed and will report in dashboard to public to achieve the transparency between farmers and co-ops.
+
 
 
 ## Built with
