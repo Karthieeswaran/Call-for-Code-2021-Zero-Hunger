@@ -18,17 +18,32 @@
 
 Approximately 9 percent of the global population is suffering from hunger. And, much of the world’s food is grown by small-scale, independent farms and distributed through local community cooperatives who sell the surplus produce. The co-ops are a central point for quality control, deliveries, and enabling food commodity markets. However, these co-ops face a myriad of logistical challenges to get the right food to the right places with minimal time and cost.
 
-### How can technology help?
+### How can our help?
 
 By bringing the paper ledgers of food co-ops online, communities can harness data insights from their environment for better crop resilience and overall yield for sustainable food production systems. More crops mean better access to food for the community.
 
 
 
-### The idea
+### Our idea
 
-In this we are try to bring the paper ledgers to online and store the data in a cloudant database. Then with this data we can bind the gap between farmers and Co-Ops. After that data will be further analysed to help both farmers and co-ops. With the analysed data a report will be generated with daily price of each crop will be sent to farmers in the SMS. So that farmers can know the current selling value of crops and as an add on feature in the SMS daily wheather report will be sent. We also try to find the solution to reduce the wastage of vegetables and it will be delivered to the one whose in need.
+In digitized and enhanced co-operative solution, we will try to  minimize the wastage of foods including crops and vegetables, recycle of wastage to promote organic farming and will also provide access to digital wallet through sms. This solution will be reachable to remote or village areas where farmers do not have smart system like smartphone, digital camera etc. Farmers just need basic mobile phones. To achieve this idea we will implement voice/text based bots to communicate with farmers for subscription and accessibility to Co-Ops, digital wallet. We will adapt blockchain to track transactions. Kindly note this idea will also be considered as an improvement/enhancement of solution starter kit followed by provided format:
+! Who?- Bots
++ What will they do?-Will interact with farmers through voice call/sms
+- To achieve this measurable outcome (wow!): In order to ensure higher food security
 
+### The Architecture
 
+![image](https://user-images.githubusercontent.com/88243059/127745051-655ffbc9-828d-4944-9951-2f54cc132006.png)
+
+1. The farmers will interact with digitized Co-ops system through text/caller bots.
+2. The SMS/Call will be done through Twilio or Telestra(Australia users).
+3. Programmable Messaging service will forward the message to  Node-RED app i.e hosted on IBM Cloud.
+4. This Node-RED app interacts with the IBM Cloud Pak for Data AI/ML service to get the response.
+5. IBM Cloud Pak service will do the necessary computations and returns the response.
+6. The Node-RED app processes the response, converts it to a user-readable format, and forwards it to the digital co-operative management system app UI and also to farmers through SMS/voice through Programmable Messaging service.CoOp admin will be able to view the response via the digital co-operative management system app UI.
+7. CoOp admin can also manually enter data in the system app ui as per the need ans Node-RED app helps to deliver this entries to farmers.
+8. CoOps will also communicate with local agencies/Volunteers for getting the surplus delivered at right place on right time.
+9. CoOp admin will enter data for profit made on selling surplus in local markets and this will be stored in different U/I which can help Govt/Bank Authorities to process cashbak in farmer's wallet.This separte U/I will interact with Node-RED app to get the response from Cloud Pak for data AI/ML service for further analysis.
 
 ## Built with
 
@@ -50,32 +65,33 @@ In this we are try to bring the paper ledgers to online and store the data in a 
 ## Project 
 
 
-The project currently does the following things.
-1. The farmers with the help of co-ops can register the details of crops in the below UI.
+Currently,this project does the following things:
+1. Subscription for farmers to get daily updates on market prices of crops/vegetables.
+2. The Co-ops can register the details of crops in the below UI.
 
 ![Project](https://github.com/karthi19-DS/Call-for-Code-2021-Zero-Hunger/blob/main/Dashboard/Dail%20Entry.png)
 
 
 
-2. Once the farmer is registered the co-ops will send the current value for the crops which they like to sell with co-ops.
+2. Once the farmer gets registered, the co-ops will send the current value for the crops which they like to sell in local market.(This will be automated in future #Phonebots)
 
 ![Project](https://github.com/karthi19-DS/Call-for-Code-2021-Zero-Hunger/blob/main/Dashboard/Daily_Report.png)
 
 
 
-3. Then using the below UI the co-ops can enter the outlet kgs from their storage space.So that the current used storage sapce will be automatically updated in the UI.
+3. Then using the below UI the co-ops can enter the outlet kgs from their storage space.So that the current used storage sapce will be automatically updated in the UI.This information will be used for storing surpluses incase any challanges observed in transportation or consumser availability.
 
 ![Project](https://github.com/karthi19-DS/Call-for-Code-2021-Zero-Hunger/blob/main/Dashboard/Storage_Capacity.png)
 
 
 
-4. In need of beneficial to both farmers and customers using below UI the Profit is calculated and these details are stored in the database.
+4. If selling of surplus amount will be successful then  below UI will be used to calculate profit margins for independent farmers.This information will be handy to investors like Govt/Bank authorities. They will add cashback to farmer's wallet so that they can use this profit amount for their own need.
 
 ![Project](https://github.com/karthi19-DS/Call-for-Code-2021-Zero-Hunger/blob/main/Dashboard/Profit_Dashboard.png)
 
 
 
-5. Then an sepaarte UI is created to deliver the vegetables which is going to be waste or someone willing to offer the vegetables to the people whose in need. Beacuse in the farmers end they can't sell the vegetables in the market in some cases. So they became rotten and went to wastage. Inorder to reduce this the unselled vegetables can be shared with whose in need.
+5. This sepaarte UI has been created to deliver the extra surplus amount which was failed to sell in the market due to certain reason. Coops will help to share with other locality farmers or food processing industries.Incase Coops fail to sell then the surplus will be used for organic farming to make compost or animal food.
 
 ![Project](https://github.com/karthi19-DS/Call-for-Code-2021-Zero-Hunger/blob/main/Website/website.PNG)
 
@@ -102,10 +118,9 @@ The above API,Workflow,UI was able to integrate successfully solve the above pro
 
 ## Future Idea
  
- - With help of available data using Machine Learning the selling value of crops can be predicted a day before itself. So that farmer can decide on which day they can sell.
- - The image of an using MMS/SMS crop can be sent directly to the public number. Then the image can be further processed with Machine Learning to predict the better value and then the processed information will be sent to farmer.
- -  Using the stored Profit data the cashback will be given to the farmers with help of bank based on how much they have given profit to the co-ops.
- -  In future the farmer can directly register their details using an common mobile number.
+ -  Using Machine Learning the weather data, selling proce of crops/vegetables can be predicted earlier.It will help farmers to make better plans.
+ -  Using the stored Profit data the cashback will be given to the farmer's digital wallet from Govt/Bank authorities.
+ -  The whole solution will be integrated with distributed ledger like blockchain to secure the transactions.
 
 
 
