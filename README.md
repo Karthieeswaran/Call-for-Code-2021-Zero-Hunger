@@ -22,7 +22,7 @@ By bringing the paper ledgers of food co-ops online, communities can harness dat
 
 ### The idea
 
-In this we are try to bring the paper ledgers to online and store the data in a cloudant database.Then with this data we can bind the gap between farmers and Co-Ops.After that data will be further analysed to help both farmers and co-ops. With the analysed data a report will be generated with daily price of each crop will be sent to farmers in the SMS.So that farmers can know the current selling value of crops and as an add on feature in the SMS daily wheather report will be sent.
+In this we are try to bring the paper ledgers to online and store the data in a cloudant database.Then with this data we can bind the gap between farmers and Co-Ops.After that data will be further analysed to help both farmers and co-ops. With the analysed data a report will be generated with daily price of each crop will be sent to farmers in the SMS.So that farmers can know the current selling value of crops and as an add on feature in the SMS daily wheather report will be sent.We also try to find the solution to reduce the wastage of vegetables and it will be delivered to the one whose in need.
 
 
 
