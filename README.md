@@ -22,13 +22,16 @@ Approximately 9 percent of the global population is suffering from hunger. And, 
 
 By bringing the paper ledgers of food co-ops online, communities can harness data insights from their environment for better crop resilience and overall yield for sustainable food production systems. More crops mean better access to food for the community.
 
+
+
 ### The idea
 
-In this we are try to bring the paper ledgers to online and store the data in a cloudant database.Then with this data we can bind the gap between farmers and Co-Ops.After that data will be further analysed to help both farmers and co-ops. With the analysed data a report will be generated with daily price of each crop will be sent to farmers in the SMS.So that farmers can know the current selling value of crops and as an add on feature in the SMS daily wheather report will be sent.We also try to find the solution to reduce the wastage of vegetables and it will be delivered to the one whose in need.
+In this we are try to bring the paper ledgers to online and store the data in a cloudant database. Then with this data we can bind the gap between farmers and Co-Ops. After that data will be further analysed to help both farmers and co-ops. With the analysed data a report will be generated with daily price of each crop will be sent to farmers in the SMS.So that farmers can know the current selling value of crops and as an add on feature in the SMS daily wheather report will be sent. We also try to find the solution to reduce the wastage of vegetables and it will be delivered to the one whose in need.
 
 
 
 ## Built with
+
 
 - IBM Node Red - This provides a browser-based flow editor that makes it easy to wire together flows using the wide range of nodes in the palette.
 - IBM Cloudant - The NoSQL database to store the data.
@@ -66,7 +69,7 @@ The project currently does the following things.
 
 
 
-4. In need of beneficial to both farmers and customers using below UI the Profit/Loss is calculated and these details are further processed with the bank to give extra offers to the farmer.
+4. In need of beneficial to both farmers and customers using below UI the Profit is calculated and these details are stored in the database.
 
 ![Project](https://github.com/karthi19-DS/Call-for-Code-2021-Zero-Hunger/blob/main/Dashboard/Profit_Dashboard.png)
 
@@ -101,6 +104,8 @@ The above API,Workflow,UI was able to integrate successfully solve the above pro
  
  - With help of available data using Machine Learning the selling value of crops can be predicted a day before itself. So that farmer can decide on which day they can sell.
  - The image of an using MMS/SMS crop can be sent directly to the public number. Then the image can be further processed with Machine Learning to predict the better value and then the processed information will be sent to farmer.
+ -  Using the stored Profit data the cashback will be given to the farmers with help of bank based on how much they have given profit to the co-ops.
+ -  In future the farmer can directly register their details using an common mobile number.
 
 
 
