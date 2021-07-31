@@ -38,13 +38,13 @@ A farmer can reach out the co-ops using an public co-ops website with the detail
 
 [![Watch the video](https://github.com/Call-for-Code/Liquid-Prep/blob/master/images/readme/IBM-interview-video-image.png)](https://youtu.be/vOgCOoy_Bx0)
 
+
 ## Work flow
 
 ![Work flow](https://github.com/karthi19-DS/Call-for-Code-2021-Zero-Hunger/blob/main/Images/site.PNG)
-![Work flow](https://github.com/karthi19-DS/Call-for-Code-2021-Zero-Hunger/blob/main/Images/storagecapacity.PNG)
 ![Work flow](https://github.com/karthi19-DS/Call-for-Code-2021-Zero-Hunger/blob/main/Images/daily%20entry%20sites.PNG)
 ![Work flow](https://github.com/karthi19-DS/Call-for-Code-2021-Zero-Hunger/blob/main/Images/send%20weather%20via%20sms.PNG)
-![Work flow](https://github.com/karthi19-DS/Call-for-Code-2021-Zero-Hunger/blob/main/Images/storagecapacity.PNG)
+
 
 
 
