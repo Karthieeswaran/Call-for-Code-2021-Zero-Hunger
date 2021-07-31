@@ -62,7 +62,7 @@ In digitized and enhanced co-operative solution, we will try to  minimize the wa
 
 ## Demo video
 
-[![Watch the video](https://github.com/Call-for-Code/Liquid-Prep/blob/master/images/readme/IBM-interview-video-image.png)](https://youtu.be/vOgCOoy_Bx0)
+[![Watch the video](https://github.com/Karthieeswaran/Call-for-Code-2021-Zero-Hunger/blob/main/Images/youtube.PNG)](https://www.youtube.com/watch?v=8621HT7mjpY)
 
 
 
