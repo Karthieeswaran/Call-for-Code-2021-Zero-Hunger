@@ -37,7 +37,8 @@ In digitized and enhanced co-operative solution, we will try to  minimize the wa
 ```
 ### The Architecture
 
-![image](https://user-images.githubusercontent.com/88243059/127745051-655ffbc9-828d-4944-9951-2f54cc132006.png)
+![image](https://user-images.githubusercontent.com/88243059/127747294-37f36563-adfc-46c5-b8a0-067c4695df44.png)
+
 
 1. The farmers will interact with digitized Co-ops system through text/caller bots.
 2. The SMS/Call will be done through Twilio or Telestra(Australia users).
