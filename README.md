@@ -3,7 +3,8 @@
   - [Short description](#short-description)
     - [What's the problem?](#whats-the-problem)
     - [How can technology help?](#how-can-technology-help)
-    - [The idea](#the-idea)
+    - [our idea](#our-idea)
+  -[The Architecture](#the-architecture)
   - [Built with](#built-with)
   - [Demo video](#demo-video)
   - [Project](#Project)
@@ -18,7 +19,7 @@
 
 Approximately 9 percent of the global population is suffering from hunger. And, much of the world’s food is grown by small-scale, independent farms and distributed through local community cooperatives who sell the surplus produce. The co-ops are a central point for quality control, deliveries, and enabling food commodity markets. However, these co-ops face a myriad of logistical challenges to get the right food to the right places with minimal time and cost.
 
-### How can our help?
+### How can technology help?
 
 By bringing the paper ledgers of food co-ops online, communities can harness data insights from their environment for better crop resilience and overall yield for sustainable food production systems. More crops mean better access to food for the community.
 
@@ -27,6 +28,7 @@ By bringing the paper ledgers of food co-ops online, communities can harness dat
 ### Our idea
 
 In digitized and enhanced co-operative solution, we will try to  minimize the wastage of foods including crops and vegetables, recycle of wastage to promote organic farming and will also provide access to digital wallet through sms. This solution will be reachable to remote or village areas where farmers do not have smart system like smartphone, digital camera etc. Farmers just need basic mobile phones. To achieve this idea we will implement voice/text based bots to communicate with farmers for subscription and accessibility to Co-Ops, digital wallet. We will adapt blockchain to track transactions. Kindly note this idea will also be considered as an improvement/enhancement of solution starter kit followed by provided format:
+
 ! Who?- Bots
 + What will they do?-Will interact with farmers through voice call/sms
 - To achieve this measurable outcome (wow!): In order to ensure higher food security
