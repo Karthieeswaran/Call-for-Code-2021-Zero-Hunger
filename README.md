@@ -6,10 +6,9 @@
     - [The idea](#the-idea)
   - [Built with](#built-with)
   - [Demo video](#demo-video)
+  - [Work flow](#work-flow)
   - [Long description](#long-description)
   
-  - [Authors](#authors)
-  - [License](#license)
 ## Short description
 
 ### What's the problem?
@@ -42,7 +41,7 @@ A farmer can reach out the co-ops using an public co-ops website with the detail
 
 
 
-[![Work Flow](https://github.com/karthi19-DS/Call-for-Code-2021-Zero-Hunger/blob/main/Images/calculate%20storage%20space.PNG)]
+[![Work Flow](https://github.com/karthi19-DS/Call-for-Code-2021-Zero-Hunger/blob/main/Images/calculate%20storage%20space.PNG)
 ## Project roadmap
 
 The project currently does the following things.
