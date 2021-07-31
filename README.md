@@ -6,7 +6,7 @@
     - [The idea](#the-idea)
   - [Built with](#built-with)
   - [Demo video](#demo-video)
-  - [Project roadmap](#Project-roadmap)
+  - [Project](#Project)
   - [Work flow](#work-flow)
   
   
@@ -22,7 +22,7 @@ By bringing the paper ledgers of food co-ops online, communities can harness dat
 
 ### The idea
 
-In this we are try to bring the paper ledgers to online and store the data in a cloudant database.Then with this data we can bind the gap between farmers and Co-Ops.After that data will be analysed and will report in dashboard to public to achieve the transparency between farmers and co-ops.
+In this we are try to bring the paper ledgers to online and store the data in a cloudant database.Then with this data we can bind the gap between farmers and Co-Ops.After that data will be further analysed to help both farmers and co-ops. With the analysed data a report will be generated with daily price of each crop will be sent to farmers in the SMS.So that farmers can know the current selling value of crops and as an add on feature in the SMS daily wheather report will be sent.
 
 
 
@@ -44,7 +44,37 @@ In this we are try to bring the paper ledgers to online and store the data in a 
 
 ## Project 
 
+
 The project currently does the following things.
+1. The farmers with the help of co-ops can register the details of crops in the below UI.
+
+![Project](https://github.com/karthi19-DS/Call-for-Code-2021-Zero-Hunger/blob/main/Dashboard/Dail%20Entry.png)
+
+
+
+2. Once the farmer is registered the co-ops will send the current value for the crops which they like to sell with co-ops.
+
+![Project](https://github.com/karthi19-DS/Call-for-Code-2021-Zero-Hunger/blob/main/Dashboard/Daily_Report.png)
+
+
+
+3. Then using the below UI the co-ops can enter the outlet kgs from their storage space.So that the current used storage sapce will be automatically updated in the UI.
+
+![Project](https://github.com/karthi19-DS/Call-for-Code-2021-Zero-Hunger/blob/main/Dashboard/Storage_Capacity.png)
+
+
+
+4. In need of beneficial to both farmers and customers using below UI the Profit/Loss is calculated and these details are further processed with the bank to give extra offers to the farmer.
+
+![Project](https://github.com/karthi19-DS/Call-for-Code-2021-Zero-Hunger/blob/main/Dashboard/Profit_Dashboard.png)
+
+
+
+5. Then an sepaarte UI is created to deliver the vegeatables which is going to be waste or someone willing to offer the vegetables to the people whose in need. Beacuse in the farmers end they can't sell the vegetables in the market in some cases. So they became rotten and went to wastage. Inorder to reduce this the unselled vegatbles can be shared with whose in need.
+
+![Project](https://github.com/karthi19-DS/Call-for-Code-2021-Zero-Hunger/blob/main/Website/website.PNG)
+
+
 
 
 
