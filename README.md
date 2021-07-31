@@ -97,7 +97,7 @@ The above API,Workflow,UI was able to integrate successfully solve the above pro
 
 
 
-##Future Idea
+## Future Idea
  
  -With help of available data using Machine Learning the selling value of crops can be predicted a day before itself. So that farmer can decide on which day they can sell.
  -The image of an using MMS/SMS crop can be sent directly to the public number. Then the image can be further processed with Machine Learning to predict the better value and then the processed information will be sent to farmer.
