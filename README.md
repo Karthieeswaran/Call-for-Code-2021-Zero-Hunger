@@ -31,11 +31,7 @@ By bringing the paper ledgers of food co-ops online, communities can harness dat
 
 [![Watch the video](https://github.com/Call-for-Code/Liquid-Prep/blob/master/images/readme/IBM-interview-video-image.png)](https://youtu.be/vOgCOoy_Bx0)
 
-
-## Long description
-
-[More detail is available here](./docs/DESCRIPTION.md)
-
+[![Work Flow](
 ## Project roadmap
 
 The project currently does the following things.
