@@ -40,7 +40,7 @@ A farmer can reach out the co-ops using an public co-ops website with the detail
 
 ## Work flow
 
-[![Work Flow](https://github.com/karthi19-DS/Call-for-Code-2021-Zero-Hunger/blob/main/Images/calculate%20storage%20space.PNG)
+(https://github.com/karthi19-DS/Call-for-Code-2021-Zero-Hunger/blob/main/Images/calculate%20storage%20space.PNG)
 
 ## Project roadmap
 
