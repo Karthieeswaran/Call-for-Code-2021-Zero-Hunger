@@ -6,8 +6,9 @@
     - [The idea](#the-idea)
   - [Built with](#built-with)
   - [Demo video](#demo-video)
-  - [Work flow](#work-flow)
   - [Project roadmap](#Project-roadmap)
+  - [Work flow](#work-flow)
+  
   
 ## Short description
 
@@ -40,6 +41,13 @@ A farmer can reach out the co-ops using an public co-ops website with the detail
 
 
 
+
+## Project 
+
+The project currently does the following things.
+
+
+
 ## Work flow
 
 ![Work flow](https://github.com/karthi19-DS/Call-for-Code-2021-Zero-Hunger/blob/main/Images/site.PNG)
@@ -52,10 +60,6 @@ A farmer can reach out the co-ops using an public co-ops website with the detail
 
 
 
-
-## Project 
-
-The project currently does the following things.
 
 
 
